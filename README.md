@@ -41,15 +41,3 @@ This project is open source. Please refer to the LICENSE file for more details.
 Ph4r5h4d - [GitHub Profile](https://github.com/ph4r5h4d)
 
 Project Link: [https://github.com/ph4r5h4d/helloed-me](https://github.com/ph4r5h4d/helloed-me)
-
----
-
-Feel free to customize this README with more specific information about the project as it develops[1].
-
-Citations:
-[1] https://github.com/ph4r5h4d/helloed-me
-[2] https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-[3] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-[4] https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github/38624803
-[5] https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[6] https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
